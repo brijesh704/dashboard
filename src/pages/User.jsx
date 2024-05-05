@@ -42,7 +42,7 @@ function User() {
       <div className="container mx-auto">
         <div className="py-16 text-center text-white bg-gray-800 hero-section">
           <h1 className="text-4xl font-bold">Welcome to User Management</h1>
-          <p className="mt-4">----------Search and manage users easily.</p>
+          <p className="mt-4">Search and manage users easily.</p>
         </div>
         <div className="flex items-center justify-center my-4 ">
           <input
